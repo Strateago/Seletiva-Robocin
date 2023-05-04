@@ -1,5 +1,7 @@
 # Seletiva-Robocin
-Ros2 Node usado para desafio da seletiva-2023 do RoboCin
+Ros2 workspace usado para desafio da seletiva-2023 do RoboCin
+
+Foi necess
 
 
 # Instalar opencv:
