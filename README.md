@@ -1,7 +1,7 @@
 # Seletiva-Robocin
 Ros2 workspace usado para desafio da seletiva-2023 do RoboCin
 
-Foi necessario compactar por causa do numero de arquivos no workspace
+Foi necessario compactar por causa do número de arquivos no workspace, logo para usar é necessário descompactar
 
 
 # Instalar opencv:
