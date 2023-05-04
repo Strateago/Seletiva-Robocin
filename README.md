@@ -15,7 +15,7 @@ pip install opencv-python
 
 # Atualizar a .bashrc com o setup do workspace do ros2, adicionando:
 
-source ~/ros2_ws/install/setup.bash
+source ~/CAMINHO_DA_PASTA_EXTRAÍDA/install/setup.bash
 
 
 # Para executar:
