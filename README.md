@@ -2,7 +2,7 @@
 Ros2 Node usado para desafio da seletiva-2023 do RoboCin
 
 
-Necessário opencv instalado:
+# Necessário opencv instalado:
 
 pip install imutils
 
@@ -11,12 +11,12 @@ pip install numpy
 pip install opencv-python
 
 
-Também é necessário atualizar a .bashrc com o setup do workspace do ros2, adicionando:
+# Também é necessário atualizar a .bashrc com o setup do workspace do ros2, adicionando:
 
 source ~/ros2_ws/install/setup.bash
 
 
-Para executar:
+# Para executar:
 
 Abra o mapa "quadrado_seletiva.world" no gazebo
 
