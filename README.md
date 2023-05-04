@@ -1,5 +1,5 @@
-# Seletiva-Robocin
-Ros2 workspace usado para desafio da seletiva-2023 do RoboCin
+# Seletiva-Robôcin
+Ros2 workspace usado para desafio da seletiva-2023 do RobôCin
 
 Foi necessario compactar por causa do número de arquivos no workspace, logo para usar é necessário descompactar
 
