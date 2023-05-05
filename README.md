@@ -13,10 +13,15 @@ pip install numpy
 pip install opencv-python
 
 
-# Atualizar a .bashrc com o setup do workspace do ros2, adicionando:
+# Configurando o workspace e setando o caminho na .bash:
 
-source ~/CAMINHO_DA_PASTA_EXTRAÍDA/install/setup.bash
+No diretório "ros_ws", digite no terminal: colcon build
 
+Adicione no final do arquivo .bash: "source /CAMINHO DA PASTA "ROS_WS"/install/setup.bash"
+
+No terminal digite: "source ~/.bashrc"
+
+Agora você pode utilizar o comando para executar o código de qualquer tmerminal
 
 # Para executar:
 
